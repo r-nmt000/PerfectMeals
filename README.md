@@ -21,17 +21,17 @@ HowToMake
    1. Put all WhatYouNeed in a bowl and mix them up.
    2. Done!
 
-####PerfectCurry
+####PerfectStew
 * WhatYouNeed (6 plates)
    1. Kabocha (half)
    2. Spinach (2 bunchs)
    3. Pork leg (500g)
-   4. Curry roux (6 pieces)
+   4. Stew roux (6 pieces)
    5. Sliced garlic (30g)(if you want)
-   6. rice (200g)
+   
 
 * HowToMake
-  1. Just follow an instruction on the back of a curry roux package using kabocha, spinach and garlic instead of potato, onion and carrot.
+  1. Just follow an instruction on the back of a stew roux package using kabocha, spinach and garlic instead of potato, onion and carrot.
   2. Done!
 
 instruction
@@ -46,5 +46,6 @@ You can have meals above just like the following.
  - One bowl of perfect TKG.
 
 * Dinner
- - One plate of perfect curry.
+ - One plate of perfect stew.
+ - One bowl of perfect TKG.
  - One cup of milk. (that will be great if you drink it with protein powder.)
